@@ -91,6 +91,10 @@ h1{
     font-family: figtreeExtraBold;
     font-size: var(--fs-h);
 }   
+h1:hover{
+    color: var(--Yellow);
+    cursor: pointer;
+}
 figcaption p:last-child{
     font-family: figteeRegular;
     font-size: var(--fs-b-m);
