@@ -60,6 +60,7 @@ article{
 }
 img{
     max-width: 100%;
+    border-radius: 0.625rem;
 }
 figcaption{
     padding: 0 0.125rem;
@@ -112,5 +113,5 @@ section p{
     font-size: var(--fs-b-s);
 }
 .attribution{
-  margin-top: 25px;
+  margin-top: 1.5rem;
 }
