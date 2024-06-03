@@ -1,4 +1,9 @@
 @font-face {
+    font-family: figtreeRegular;
+    src: url('fonts/Figtree-VariableFont_wght.ttf');
+    font-weight: 400;
+}
+@font-face {
     font-family:figtreeItalic ;
     src: url('fonts/Figtree-Italic-VariableFont_wght.ttf');
     font-style: italic;
@@ -6,7 +11,7 @@
 @font-face {
     font-family: figtreeExtraBold;
     src: url('fonts/static/Figtree-ExtraBold.ttf');
-    font-style: extra-bold;
+    font-weight: 800;
 }
 @font-face {
     font-family:figtreeSemiBold;
@@ -68,14 +73,13 @@ figcaption p:nth-child(2){
     font-family: figtreeItalic;
     font-size: var(--fs-b-s);
 }
-.highlited{
+.highlited, #authorName{
     display: inline-block;
     border-radius: 0.3125rem;
     padding: 0.25rem 0.75rem;
     background-color:var(--Yellow);
-    font-family: figteeExtraBold;
-    font-style: bold;
-    font-weight: 800;
+    font-family: figtreeExtraBold;
+    font-weight: 500;
     font-size: var(--fs-b-s);
 }
 figure{
@@ -88,11 +92,10 @@ h1{
     font-size: var(--fs-h);
 }   
 figcaption p:last-child{
-    font-family: figteeSemiBold;
+    font-family: figteeRegular;
     font-size: var(--fs-b-m);
-    font-weight: 500;
     color: var(--Grey);
-    line-height: 1.3;
+    line-height: 1.5;
     
 
 }
