@@ -21,8 +21,8 @@ The challenge is to build out this blog preview card and get it looking as close
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Live Site URL: [Live site URL here](https://ratsagi.github.io/blogPreviewCard-fem/)
 
 ## My process
 

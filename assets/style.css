@@ -51,7 +51,7 @@ body{
     flex-direction: column;
     background-color: var(--Yellow);
 }
-article{
+main{
     max-width: 24rem;
     padding: 1.5rem;
     background-color: var(--White);
@@ -112,6 +112,6 @@ section{
 section p{
     font-size: var(--fs-b-s);
 }
-.attribution{
+footer{
   margin-top: 1.5rem;
 }
