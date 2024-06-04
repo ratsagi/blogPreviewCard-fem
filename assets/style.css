@@ -76,11 +76,16 @@ figcaption p:nth-child(2){
     font-family: figtreeItalic;
     font-size: var(--fs-b-s);
 }
-.highlited, #authorName{
+.highlited{
     display: inline-block;
     border-radius: 0.3125rem;
     padding: 0.25rem 0.75rem;
     background-color:var(--Yellow);
+    font-family: figtreeExtraBold;
+    font-weight: 500;
+    font-size: var(--fs-b-s);
+}
+#authorName{
     font-family: figtreeExtraBold;
     font-weight: 500;
     font-size: var(--fs-b-s);
