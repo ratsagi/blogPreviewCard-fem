@@ -55,6 +55,8 @@ main{
     max-width: 24rem;
     padding: 1.5rem;
     background-color: var(--White);
+    border-top: 0.0625rem solid var(--Black);
+    border-left: 0.0625rem solid var(--Black);
     border-radius: 1.25rem;
     box-shadow: 10px 13px 1px 1px var(--Black);
 }
